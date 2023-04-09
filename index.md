@@ -4,7 +4,7 @@
 
 Second-year CS Major @ [UCSD](https://cse.ucsd.edu/). Tutor for CSE 15L, *Software Tools and Techniques*.
 
-What's the secret?
+What's [the secret?](https://jeannkim.github.io/site/#the-secret)
 
 ## Things I find Interesting
 ### CS Education
